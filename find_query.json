@@ -1,0 +1,110 @@
+{
+    "_id" : ObjectId("6742b4b324a1b975b1072f8b"),
+    "nombre" : "Alejandro",
+    "apellido" : "Marin",
+    "edad" : "20",
+    "peso" : "55 kg",
+    "telefono" : "3154875744",
+    "email" : "sinbrazo@gmail.com",
+    "nombre acudiente" : "Edilma Perdomo"
+}
+{
+    "_id" : ObjectId("6742b4b324a1b975b1072f8c"),
+    "nombre" : "Arturo",
+    "apellido" : "Vidal",
+    "edad" : "19",
+    "peso" : "58 kg",
+    "telefono" : "3167894215",
+    "email" : "arturito12@gmail.com",
+    "nombre acudiente" : "Juan Casallas"
+}
+{
+    "_id" : ObjectId("6742b4b324a1b975b1072f8d"),
+    "nombre" : "Robert",
+    "apellido" : "Pinzon",
+    "edad" : "21",
+    "peso" : "60 kg",
+    "telefono" : "3241004512",
+    "email" : "rpinzonje@gmail.com",
+    "nombre acudiente" : "Alberto Pinzon"
+}
+{
+    "_id" : ObjectId("6742b4b324a1b975b1072f8e"),
+    "nombre" : "Jesus",
+    "apellido" : "Arnos",
+    "edad" : "19",
+    "peso" : "59 kg",
+    "telefono" : "3248567941",
+    "email" : "gsus@gmail.com",
+    "nombre acudiente" : "Gloria Rubiano"
+}
+{
+    "_id" : ObjectId("6742b4b324a1b975b1072f8f"),
+    "nombre" : "Mario",
+    "apellido" : "Hernandez",
+    "edad" : "21",
+    "peso" : "63 kg",
+    "telefono" : "3129638547",
+    "email" : "mh@gmail.com",
+    "nombre acudiente" : "Victor Hernandez"
+}
+{
+    "_id" : ObjectId("6742b4b324a1b975b1072f90"),
+    "nombre" : "Nicolas",
+    "apellido" : "Lopez",
+    "edad" : "19",
+    "peso" : "53 kg",
+    "telefono" : "3167893322",
+    "email" : "nlopez@gmail.com",
+    "nombre acudiente" : "Edilma Diaz"
+}
+{
+    "_id" : ObjectId("6742b4b324a1b975b1072f91"),
+    "nombre" : "Juan",
+    "apellido" : "Hernadez",
+    "edad" : "19",
+    "peso" : "57 kg",
+    "telefono" : "3002501468",
+    "email" : "juanitoh@gmail.com",
+    "nombre acudiente" : "Victor Hernandez"
+}
+{
+    "_id" : ObjectId("6742b4b324a1b975b1072f92"),
+    "nombre" : "Ruben",
+    "apellido" : "Osorio",
+    "edad" : "20",
+    "peso" : "68 kg",
+    "telefono" : "3154865588",
+    "email" : "ruoso@gmail.com",
+    "nombre acudiente" : "Pablo Osorio"
+}
+{
+    "_id" : ObjectId("6742b4b324a1b975b1072f93"),
+    "nombre" : "Esteban",
+    "apellido" : "Cardenas",
+    "edad" : "19",
+    "peso" : "55 kg",
+    "telefono" : "3159632299",
+    "email" : "cardees@gmail.com",
+    "nombre acudiente" : "Juan Cardenas"
+}
+{
+    "_id" : ObjectId("6743a197ef0bce3ad780231a"),
+    "nombre" : "Esteban",
+    "apellido" : "Cardenas",
+    "edad" : "19",
+    "peso" : "55 kg",
+    "telefono" : "3159632299",
+    "email" : "cardees@gmail.com",
+    "nombre acudiente" : "Juan Cardenas"
+}
+{
+    "_id" : ObjectId("6743a197ef0bce3ad780231b"),
+    "nombre" : "Juan ",
+    "apellido" : "Quintero",
+    "edad" : "21",
+    "peso" : "55 kg",
+    "telefono" : "3158541277",
+    "email" : "quinte2@gmail.com",
+    "nombre acudiente" : "Rosa Castañeda"
+}
